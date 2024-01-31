@@ -6,7 +6,7 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Hamburgueria dos Mynssem</h1>readme
+    <h1>Hamburgueria dos Mynssem</h1>
 </body>
 </html>
 
