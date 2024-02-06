@@ -3,10 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <title>home</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -17,13 +14,8 @@
      </div>
     </pre>
     <br>
-     <div class = "elemento">
-      <p>name</p>
-      <input type="text">
-      <p>password</p>
-      <input type="text">
-     </div>
-    
+    <a href="login.php">Fazer login</a>
+
 </body>
 </html>
 
