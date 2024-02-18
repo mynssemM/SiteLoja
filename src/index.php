@@ -15,7 +15,7 @@
             <h1>Mynssem's burguer</h1>
         </div>
         <div class="socialmedia">
-            <a href="https://www.youtube.com"> instagram </a>
+            <a href="https://www.youtube.com" class="btn-link"> instagram </a>
             <a href="login.php" class="btn-link">Fazer login</a>
         </div>
     </header>

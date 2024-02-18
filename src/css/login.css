@@ -32,14 +32,6 @@ input {
     padding-left: 10px;
 }
 
-.btn-link {
-    text-decoration: none;
-    padding: 20px 10px;
-    background-color: #000; 
-    color: #fff;
-    border-radius: 100px;
-}
-
 .socialmedia {
     display: flex;
 }
