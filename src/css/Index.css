@@ -3,13 +3,6 @@ img {
     height: 75px;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-    width: 5px;
-    height: 75px;
-}
-
 body {
     background-color: #ff9b2a;
 }
