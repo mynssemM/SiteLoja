@@ -1,0 +1,31 @@
+img {
+    width: 75px;
+    height: 75px;
+}
+
+body {
+    background-color: #ff9b2a;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoAndTitle {
+    display: flex;
+}
+
+.btn-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #000; 
+    color: #fff;
+    border-radius: 100px;
+}
+
+.socialmedia {
+    display: flex;
+}

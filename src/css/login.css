@@ -1,20 +1,3 @@
-img {
-    width: 75px;
-    height: 75px;
-}
-
-body {
-    background-color: #ff9b2a;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-}
-
-.logoAndTitle {
-    display: flex;
-}
 
 .elemento {
     position: absolute;
@@ -32,6 +15,9 @@ input {
     padding-left: 10px;
 }
 
-.socialmedia {
-    display: flex;
+#login-link {
+    display: none;
+}
+#instagram-link {
+    display: none;
 }
