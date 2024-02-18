@@ -6,12 +6,21 @@ img {
 .container {
     display: flex;
     align-items: center;
-    width: 100px;
+    width: 5px;
     height: 75px;
 }
 
 body {
     background-color: #ff9b2a;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoAndTitle {
+    display: flex;
 }
 
 .elemento {
@@ -28,4 +37,16 @@ input {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     padding-left: 10px;
+}
+
+.btn-link {
+    text-decoration: none;
+    padding: 20px 10px;
+    background-color: #000; 
+    color: #fff;
+    border-radius: 100px;
+}
+
+.socialmedia {
+    display: flex;
 }
